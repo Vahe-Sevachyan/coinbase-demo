@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this project i will be building a Coinbase demo using React, Styled Components and React icons.
 
 Currently, two official plugins are available:
 
